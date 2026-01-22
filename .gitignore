@@ -1,2 +1,3 @@
 _site/		# Jekyll build artifact
+.jekyll-cache/
 
